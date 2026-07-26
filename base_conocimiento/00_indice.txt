@@ -1,0 +1,27 @@
+# METADATOS
+categoria: indice_base_conocimiento
+proyecto: Agente IA Trompitas Dental (challenge orquestacion de agentes)
+paso: 1 - Extraccion y contenido (construccion de la base de consulta)
+fecha_actualizacion: 2026-07-20
+version: 1.0
+# FIN METADATOS
+
+ÍNDICE DE LA BASE DE CONOCIMIENTO
+
+Fuentes utilizadas:
+- Sitio web oficial: https://trompitasodonto.com/
+- Manual de operación (Google Sheets).
+
+Documentos:
+01_informacion_general.txt ......... Datos de la clínica, contacto, equipo, instalaciones. [COMPLETO]
+02_servicios.txt ................... Catálogo de servicios y especialidades. [COMPLETO]
+03_precios_promociones.txt ......... Consulta $1000 + promo confirmados; falta tarifa tratamientos. [CASI COMPLETO]
+04_horarios.txt .................... Horario completo por día + urgencias 24h. [COMPLETO]
+05_agendamiento.txt ................ Cómo agendar, canales, datos requeridos. [CASI COMPLETO]
+06_politicas.txt ................... Cancelación, tolerancia, pagos, flujo. [COMPLETO]
+07_seguimiento_recordatorios.txt ... 18 plantillas desarrolladas (todo el recorrido). [DESARROLLADO]
+08_faq.txt ......................... Preguntas frecuentes. [PARCIAL]
+09_guion_atencion_cliente.txt ...... Identidad "Cindy 🐘", tono, disclaimer IA, escalamiento. [COMPLETO]
+
+Convención: los huecos de información se marcan como [PENDIENTE — CONFIRMAR].
+Formato: texto plano (.txt), exportable, con cabecera de METADATOS para RAG (categoría, fuente, fecha, versión).

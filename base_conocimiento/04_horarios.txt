@@ -1,0 +1,35 @@
+# METADATOS
+categoria: horarios_y_disponibilidad
+fuente: cuaderno NotebookLM operativo (1cff155d) + manual de operacion + sitio web
+fecha_actualizacion: 2026-07-20
+version: 1.0
+estado: COMPLETO
+# FIN METADATOS
+
+TÍTULO: Horarios de Atención
+
+MODALIDAD
+- La atención se maneja por AGENDAMIENTO. Los tratamientos con especialistas aliados
+  (ortodoncia, endodoncia y cirugía maxilofacial) requieren estrictamente CITA PREVIA y valoración.
+- Regla de comunicación de la guía operativa: "mañanas para adultos, tardes para niños".
+
+HORARIO LUNES A VIERNES (igual todos los días)
+- Odontopediatría (niños): 9:00 AM – 2:00 PM y 4:00 PM – 8:00 PM.
+- Odontología general / adultos: 9:00 AM – 1:00 PM y 5:00 PM – 8:00 PM.
+
+SÁBADOS
+- 10:00 AM – 2:00 PM (ambas especialidades).
+
+DOMINGOS
+- 10:00 AM – 2:00 PM (EXCLUSIVO para urgencias).
+
+URGENCIAS
+- Disponibilidad de guardia las 24 horas.
+- Se reportan por WhatsApp al +52 427 335 1918 para verificar disponibilidad del especialista en turno.
+
+RESUMEN SIMPLE PARA EL CHATBOT
+"Atendemos de lunes a viernes: adultos por la mañana (9am–1pm) y por la tarde (5pm–8pm),
+y niños de 9am–2pm y 4pm–8pm. Sábados de 10am a 2pm. Domingos solo urgencias (10am–2pm).
+Contamos con guardia de urgencias 24h por WhatsApp."
+
+DÍAS FESTIVOS: [PENDIENTE — CONFIRMAR si cierran en días feriados]

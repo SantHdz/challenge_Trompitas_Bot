@@ -1,0 +1,51 @@
+# METADATOS
+categoria: preguntas_frecuentes
+fuente: sitio web oficial + manual de operacion
+fecha_actualizacion: 2026-07-20
+version: 0.5
+estado: PARCIAL - PENDIENTE COMPLETAR
+# FIN METADATOS
+
+TÍTULO: Preguntas Frecuentes (FAQ)
+
+P: ¿Atienden a adultos o solo a niños?
+R: Atendemos a ambos. Somos especialistas en odontopediatría (niños) y también ofrecemos odontología general para adultos.
+
+P: ¿Dónde están ubicados?
+R: En Calle Francisco Javier Mina 18, Consultorio 5, Centro, San Juan del Río, Querétaro.
+
+P: ¿Cómo agendo una cita?
+R: Por WhatsApp al +52 427 335 1918 o con el botón "Agenda Cita" del sitio web. Respondemos en menos de 15 minutos.
+
+P: ¿Tienen alguna promoción?
+R: Sí, la primera limpieza dental es gratis.
+
+P: ¿Qué formas de pago aceptan?
+R: Efectivo, transferencia bancaria y tarjetas.
+
+P: ¿Con cuánto tiempo debo avisar si no puedo asistir?
+R: Con un mínimo de 4 horas de anticipación.
+
+P: ¿Cuál es su horario?
+R: Lunes a viernes atendemos a adultos de 9am–1pm y 5pm–8pm, y a niños de 9am–2pm y 4pm–8pm. Sábados de 10am a 2pm. Domingos solo urgencias (10am–2pm). Además, contamos con guardia de urgencias las 24 horas por WhatsApp.
+
+P: ¿Atienden urgencias fuera de horario?
+R: Sí. Tenemos guardia de urgencias las 24 horas. Repórtala por WhatsApp al +52 427 335 1918 y verificamos la disponibilidad del especialista en turno.
+
+P: ¿Cuánto cuesta la consulta?
+R: La consulta base cuesta $1,000 MXN e incluye limpieza y valoración profesional. Si a partir de la valoración necesitas un tratamiento, la consulta inicial no se cobra. Los tratamientos se cotizan según cada caso.
+
+P: ¿Necesito cita o puedo llegar directamente?
+R: La atención es únicamente con cita previa. Puedes agendar por WhatsApp al +52 427 335 1918.
+
+P: ¿Aceptan seguros dentales?
+R: [PENDIENTE — CONFIRMAR]
+
+P: ¿Tienen alguna promoción para pacientes nuevos?
+R: Sí. La primera limpieza es gratis para pacientes nuevos durante su primera consulta de valoración de rutina.
+
+P: ¿Hay estacionamiento?
+R: [PENDIENTE — CONFIRMAR]
+
+P: ¿El niño puede pasar con su papá/mamá?
+R: [PENDIENTE — CONFIRMAR política de acompañante]

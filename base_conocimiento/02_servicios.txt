@@ -1,0 +1,48 @@
+# METADATOS
+categoria: servicios_y_especialidades
+fuente: sitio web oficial (trompitasodonto.com) + manual de operacion
+fecha_actualizacion: 2026-07-20
+version: 1.0
+estado: COMPLETO
+# FIN METADATOS
+
+TÍTULO: Portafolio de Servicios y Especialidades
+
+La clínica atiende tanto a niños (odontopediatría) como a adultos (odontología general).
+
+1) ODONTOLOGÍA PREVENTIVA
+- Profilaxis (limpieza dental).
+- Aplicación de flúor.
+- Selladores dentales.
+- Diagnóstico con cámara intraoral.
+- Prevención y educación en higiene bucal.
+
+2) ODONTOPEDIATRÍA (bebés, niños y adolescentes)
+- Coronas dentales infantiles.
+- Resinas / restauraciones.
+- Mantenedores de espacio.
+- Ortopedia.
+
+3) ESTÉTICA Y RESTAURADORA
+- Resinas.
+- Tratamiento de fluorosis.
+- Coronas.
+- Restauraciones.
+
+4) TRATAMIENTOS ESPECIALIZADOS
+- Ortodoncia.
+- Ortopedia.
+- Endodoncia.
+- Cirugía maxilofacial.
+- Frenilectomía.
+- Prótesis dental.
+
+5) URGENCIAS
+- Atención de urgencias dentales con guardia disponible las 24 horas.
+- Los domingos hay horario exclusivo de urgencias de 10:00 AM a 2:00 PM.
+- Se reportan por WhatsApp al +52 427 335 1918 para verificar disponibilidad del especialista en turno.
+
+NOTA: Los tratamientos con especialistas aliados (ortodoncia, endodoncia y cirugía
+maxilofacial) requieren cita previa y valoración.
+
+NOTA: Para precios de cada servicio, ver el documento 03_precios_promociones.

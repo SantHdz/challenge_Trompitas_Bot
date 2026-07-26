@@ -1,0 +1,39 @@
+# METADATOS
+categoria: precios_y_promociones
+fuente: sitio web oficial (trompitasodonto.com)
+fecha_actualizacion: 2026-07-20
+version: 0.1
+estado: PARCIAL - PENDIENTE CONFIRMAR
+# FIN METADATOS
+
+TÍTULO: Precios y Promociones
+
+CONSULTA / VALORACIÓN (confirmado)
+- Costo de la consulta base: $1,000 MXN.
+- Incluye: diagnóstico con cámara intraoral + profilaxis (limpieza) de cortesía.
+- Política de exención: si el paciente requiere un tratamiento mayor y decide realizarlo en
+  la clínica, los $1,000 NO se cobran (se descuentan del presupuesto final).
+- Antes de iniciar cualquier procedimiento se entrega un presupuesto formal desglosado con
+  opciones de pago.
+
+PROMOCIONES (confirmado)
+- "Primera limpieza gratis": VIGENTE. Aplica exclusivamente a pacientes NUEVOS durante su
+  primera consulta de valoración de rutina.
+
+PRECIOS DE TRATAMIENTOS
+[PENDIENTE — CONFIRMAR] Aún sin lista de precios de tratamientos. Datos deseables (aunque sea "desde"):
+- Resina / restauración: $[PENDIENTE]
+- Corona infantil: $[PENDIENTE]
+- Endodoncia: $[PENDIENTE]
+- Ortodoncia (inicial y mensualidad): $[PENDIENTE]
+- Extracción / cirugía: $[PENDIENTE]
+
+FORMAS DE PAGO
+- Efectivo.
+- Transferencia bancaria.
+- Tarjetas (crédito/débito).
+- Meses sin intereses / planes de pago: [PENDIENTE — CONFIRMAR]
+- Facturación: [PENDIENTE — CONFIRMAR]
+
+CONVENIOS Y SEGUROS
+- Seguros dentales o convenios aceptados: [PENDIENTE — CONFIRMAR]

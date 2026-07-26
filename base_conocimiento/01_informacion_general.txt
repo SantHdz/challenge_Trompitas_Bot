@@ -1,0 +1,45 @@
+# METADATOS
+categoria: informacion_general
+fuente: sitio web oficial (trompitasodonto.com) + manual de operacion
+fecha_actualizacion: 2026-07-20
+version: 1.0
+estado: COMPLETO
+# FIN METADATOS
+
+TÍTULO: Información General de la Clínica
+
+Nombre del negocio: Trompitas Dental (también "Clínica Dental Trompitas"; en Google Maps aparece como "Trompitas - Odontología infantil y general").
+Especialidad principal: Odontopediatría (odontología infantil) y Odontología General para adultos.
+Lema: "Sonrisas sanas, niños felices".
+
+UBICACIÓN
+Dirección: Calle Francisco Javier Mina 18, Consultorio 5, Colonia Centro, C.P. 76800, San Juan del Río, Querétaro, México.
+
+CONTACTO
+Teléfono: 427 335 1918
+WhatsApp: +52 427 335 1918
+Facebook: perfil oficial de Trompitas Dental (ID 61584215199781).
+Sitio web: https://trompitasodonto.com/
+Correo electrónico: [PENDIENTE — CONFIRMAR]
+
+EQUIPO PROFESIONAL
+- Dra. Andrea Salas — Odontopediatra.
+  - Más de 10 años de experiencia.
+  - Cirujana Dentista con Especialidad en Odontopediatría (UNAM).
+  - Certificada por el Consejo Mexicano de Odontopediatría.
+  - Miembro activo del consejo de odontología pediátrica.
+- Otras doctoras del equipo: [PENDIENTE — CONFIRMAR nombres y especialidades] (el sitio menciona sección "Doctoras" en plural).
+
+INSTALACIONES Y AMBIENTE
+- Ambiente cálido, colorido y seguro, pensado para niños.
+- Área de espera cómoda.
+- "Play Zone" (zona de juegos) para niños.
+- Equipo con tecnología moderna.
+- Equipo multidisciplinario.
+
+ACREDITACIONES
+- Universidad Nacional Autónoma de México (UNAM) — Facultad de Odontología.
+- FES Zaragoza.
+
+SECCIONES DEL SITIO WEB
+Inicio · Especialidades · Doctoras · Testimonios · Formación Académica · Consulta con IA.
