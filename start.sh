@@ -7,5 +7,6 @@ if [ ! -d "data/vectorstore" ]; then
   python src/ingest.py
 fi
 
-echo "🚀 Iniciando servidor de Cindy en el puerto 8000..."
-exec uvicorn api:app --host 0.0.0.0 --port 8000 --app-dir src
+PORT="${PORT:-8000}"
+echo "🚀 Iniciando servidor de Cindy en el puerto $PORT..."
+exec uvicorn api:app --host 0.0.0.0 --port "$PORT" --app-dir src
