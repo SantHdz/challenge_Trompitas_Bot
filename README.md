@@ -3,6 +3,8 @@
 Chatbot corporativo con **RAG** (Retrieval-Augmented Generation) y **agente con herramientas** para la clínica de odontopediatría **Trompitas Dental** (San Juan del Río, Querétaro).
 Cindy responde dudas de pacientes usando **únicamente** la información oficial de la clínica (sin alucinar, citando la fuente) y **agenda citas** dentro del propio chat.
 
+🔗 **App en vivo:** https://cindy-trompitas.onrender.com
+
 ---
 
 ## 🎓 Sobre el Challenge
@@ -137,19 +139,23 @@ Cada interacción se guarda en `data/logs/interacciones.jsonl`:
 
 ---
 
-## ☁️ Despliegue en Oracle Cloud (OCI)
+## ☁️ Despliegue en la nube
 
-La aplicación se despliega como contenedor Docker en una instancia **Compute** de OCI.
+La aplicación está desplegada como **contenedor Docker** y accesible públicamente:
+
+**🔗 https://cindy-trompitas.onrender.com**
+
+El despliegue usa el `Dockerfile` del proyecto: al arrancar, construye la base vectorial
+(si no existe) y levanta el servidor web (`start.sh`). La única variable requerida es
+`GOOGLE_API_KEY`, configurada como variable de entorno en la plataforma.
 
 ```bash
-# En la instancia OCI (con Docker instalado):
+# Reproducible en cualquier host con Docker:
 docker build -t cindy-trompitas .
 docker run -d -p 8000:8000 -e GOOGLE_API_KEY="tu_clave" cindy-trompitas
 ```
 
-Luego se abre el puerto 8000 en la Security List / firewall y se accede por la IP pública.
-
-> 📸 _Evidencia del despliegue (captura/video):_ **[PENDIENTE — agregar tras el deploy]**
+> 📸 Evidencias del despliegue en la carpeta [`evidencias/`](evidencias/).
 
 ---
 
