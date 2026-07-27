@@ -155,7 +155,37 @@ docker build -t cindy-trompitas .
 docker run -d -p 8000:8000 -e GOOGLE_API_KEY="tu_clave" cindy-trompitas
 ```
 
-> 📸 Evidencias del despliegue en la carpeta [`evidencias/`](evidencias/).
+---
+
+## 📸 Evidencias
+
+Aplicación **en vivo** y funcionando en la URL pública, con la interfaz de Cindy:
+
+![Interfaz de Cindy en la URL pública](evidencias/evidencia-01.png)
+
+El usuario pregunta en lenguaje natural sobre las consultas para niños:
+
+![Pregunta sobre servicios para niños](evidencias/evidencia-02.png)
+
+Cindy responde con precios y servicios reales, **citando la fuente** (base de conocimiento de la clínica):
+
+![Respuesta con precios y fuente citada](evidencias/evidencia-03.png)
+
+Otra consulta ("¿atienden bebés?"), con el indicador de "escribiendo":
+
+![Consulta sobre atención a bebés](evidencias/evidencia-04.png)
+
+Respuesta sobre odontopediatría (Dra. Andrea Salas), nuevamente con la fuente citada:
+
+![Respuesta sobre odontopediatría](evidencias/evidencia-05.png)
+
+Flujo de **agendamiento** dentro del chat: Cindy solicita los datos para registrar la cita:
+
+![Flujo de agendamiento de cita](evidencias/evidencia-06.png)
+
+Recordatorios, políticas y Cindy **identificándose como asistente digital (IA)**:
+
+![Recordatorios y disclaimer de IA](evidencias/evidencia-07.png)
 
 ---
 
