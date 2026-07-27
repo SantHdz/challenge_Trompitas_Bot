@@ -3,7 +3,12 @@
 Chatbot corporativo con **RAG** (Retrieval-Augmented Generation) y **agente con herramientas** para la clínica de odontopediatría **Trompitas Dental** (San Juan del Río, Querétaro).
 Cindy responde dudas de pacientes usando **únicamente** la información oficial de la clínica (sin alucinar, citando la fuente) y **agenda citas** dentro del propio chat.
 
-Proyecto del **Challenge AlurAgente — Orquestación de Agentes IA**.
+---
+
+## 🎓 Sobre el Challenge
+
+Este proyecto forma parte del **Challenge AlurAgente**, del programa **Oracle Next Education (ONE)** de **Alura Latam** — formación en **Orquestación de Agentes IA**.
+El objetivo del challenge es construir un agente corporativo con RAG, desplegado en **Oracle Cloud Infrastructure (OCI)** y accesible mediante una URL pública.
 
 ---
 
